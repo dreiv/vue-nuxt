@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Events</h1>
+    <h1>Create Events</h1>
   </div>
 </template>
 
@@ -8,4 +8,4 @@
 export default {}
 </script>
 
-<style scoped></style>
+<style lang="postcss" scoped></style>
